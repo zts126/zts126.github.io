@@ -23,7 +23,7 @@ const sections: PortfolioSection[] = [
     icon: "/assets/web-folder-closed.png",
     activeIcon: "/assets/web-folder-open.png",
     description:
-      "围绕模型全生命周期业务流程梳理复杂业务路径并完成高保真落地；聚焦双十一活动，通过优化活动页面结构，帮助提升购买效率与转化表现。",
+      "完成模型全生命周期 B 端流程设计与双十一活动转化优化；搭建素材广场 HMI 模板项目，沉淀工业场景的深浅色界面与可复用组件。",
     button: "查看作品",
   },
   {

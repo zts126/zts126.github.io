@@ -80,6 +80,8 @@ projects-hq/web/page-02-slice-004.webp
 projects-hq/web/page-02-slice-005.webp
 projects-hq/web/page-02-slice-006.webp
 projects-hq/web/page-02-slice-007.webp
+projects-hq/web/page-03-slice-001.webp
+projects-hq/web/page-03-slice-002.webp
+projects-hq/web/page-03-slice-003.webp
 favicon.svg
 og.png
-

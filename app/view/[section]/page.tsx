@@ -23,7 +23,11 @@ const buildPage = (
 const projects = {
   web: {
     title: "网页端作品",
-    pages: [buildPage("web", 1, 13, 4386), buildPage("web", 2, 7, 111)],
+    pages: [
+      buildPage("web", 1, 13, 4386),
+      buildPage("web", 2, 7, 111),
+      buildPage("web", 3, 3, 3555),
+    ],
   },
   mobile: {
     title: "移动端作品",
